@@ -17,7 +17,7 @@
 }
 
 img.logo {
-  width: 400px
+  width: 300px
 }
 
 p.lead {
@@ -30,6 +30,10 @@ p.lead {
 	p.lead {
 		font-size: 40px;	
 	}
+
+  img.logo {
+    width: 400px
+  }
 }
 
 .social-container {
